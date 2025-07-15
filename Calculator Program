@@ -16,3 +16,16 @@ int main(){
      subtraction=num1-num2;
      cout<<"\nThe subtraction of num1 and num2 is:\n"<<subtraction;
  }
+/*Output:-
+Enter the first number:57
+Enter the second number:87
+
+Sum of given numbers:
+144
+The product of num1 and num2 is:
+4959
+The division of num1 and num2 is:
+0.655172
+The subtraction of num1 and num2 is:
+-30
+*/
