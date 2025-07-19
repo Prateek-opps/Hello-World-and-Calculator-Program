@@ -1,3 +1,7 @@
+# Name:Prateek Sinha
+# PRN: 24070123069
+# ENTC A3
+
 # C++ Programs: Basic Input/Output and Arithmetic Operations
 
 ## Overview
